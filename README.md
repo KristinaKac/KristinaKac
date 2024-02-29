@@ -4,8 +4,6 @@
 Frontend Developer
 -----------------------
 
-* ✉️  Как связаться со мной: [kristinakachalkova99@gmail.com](mailto:kristinakachalkova99@gmail.com)
-
 ### Технологии:
 
 <p align="left">
@@ -14,5 +12,16 @@ Frontend Developer
 
 ### GitHub статистика:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kristinakac&layout=compact)
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kristinakac&show_icons=true&locale=en&layout=compact" alt="c" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kristinakac&" alt="kristinakac" /></p>
+
+### Связаться со мной:
+
+<div id="badges">
+  <a href="https://t.me/Kristinakachalkova" target="_blank">
+    <img src="https://cdn4.iconfinder.com/data/icons/socialcones/508/Telegram-512.png" alt="telegram" height="40" width="40" style="margin-left: 10px" />
+  </a>
+  <a href="mailto:kristinakachalkova99@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/9073/9073086.png" alt="mail" height="40" width="40" style="margin-left: 10px" />
+  </a>
+</div>
